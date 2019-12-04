@@ -11,3 +11,7 @@ Also contains 40 junit test cases for both the array and map implementation of t
 Board Position contains the position entered by the user for their marker. 
 
 GameScreen is the main. 
+
+Also has a uml diagram for the program and activity diagrams for most methods (not simple functions like constructors, etc). 
+
+Contains user stories and functional requirements of the program. 
